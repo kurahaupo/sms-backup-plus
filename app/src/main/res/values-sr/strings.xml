@@ -75,7 +75,7 @@
   <string name="plain">Обичан текст</string>
 
   <string name="ui_imap_folder_label">Етикета за СМС</string>
-  <string name="ui_imap_folder_label_dialog_msg">Копиране СМС поруке ће бити означене овом етикетом у Gmail сандучету.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Копиране СМС поруке ће бити означене овом етикетом у Gmail сандучету. Користите "INBOX" да бисте поставили поруке међу долазне поруке е-поште.</string>
   <string name="ui_mail_subject_prefix_label">Префикс предмета е-поште</string>
   <string name="ui_mail_subject_prefix_desc">Користи име ИМАП фасцикле за префикс у предмету е-поште</string>
 

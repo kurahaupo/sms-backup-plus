@@ -92,7 +92,7 @@
   <string name="plain">明文</string>
 
   <string name="ui_imap_folder_label">Gmail 標籤</string>
-  <string name="ui_imap_folder_label_dialog_msg">備份的簡訊將會在 Gmail 中套用此標籤。</string>
+  <string name="ui_imap_folder_label_dialog_msg">備份的簡訊將會在 Gmail 中套用此標籤。鍵入“INBOX”以將消息與傳入電子郵件放置在一起。</string>
   <string name="ui_mail_subject_prefix_label">電郵主旨前綴</string>
   <string name="ui_mail_subject_prefix_desc">使用 IMAP 資料夾名稱作為電郵主旨的前綴。</string>
 
@@ -263,8 +263,6 @@
   <string name="sms">簡訊</string>
   <string name="mms">多媒體訊息</string>
   <string name="calllog">通話記錄</string>
-
-
 
   <string name="app_log_skip_backup_already_running">已跳過，由於備份已在進行中</string>
   <string name="app_log_skip_backup_skip_messages">跳過所有訊息</string>

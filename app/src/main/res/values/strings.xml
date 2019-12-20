@@ -95,7 +95,7 @@
   <string name="xoauth" translatable="false">XOAuth2 (Gmail)</string>
 
   <string name="ui_imap_folder_label">Gmail label / IMAP folder</string>
-  <string name="ui_imap_folder_label_dialog_msg">Backed up SMS messages will be tagged with this label in Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Backed up SMS messages will be tagged with this label in Gmail. Use "INBOX" to place messages among incoming emails.</string>
   <string name="ui_mail_subject_prefix_label">Email subject prefix</string>
   <string name="ui_mail_subject_prefix_desc">Use IMAP folder name as prefix in email subject</string>
 

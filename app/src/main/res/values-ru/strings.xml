@@ -75,7 +75,7 @@
     <string name="plain">Обычный текст</string>
 
   <string name="ui_imap_folder_label">Ярлык Gmail</string>
-    <string name="ui_imap_folder_label_dialog_msg">Сохранённым SMS будет присвоен этот ярлык Gmail.</string>
+    <string name="ui_imap_folder_label_dialog_msg">Сохранённым SMS будет присвоен этот ярлык Gmail. Напишите «INBOX», чтобы разместить сообщения рядом с входящими электронными письмами.</string>
   <string name="ui_mail_subject_prefix_label">Заголовок email</string>
   <string name="ui_mail_subject_prefix_desc">Использовать имя IMAP папки как заголовок email</string>
 

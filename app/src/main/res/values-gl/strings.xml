@@ -91,7 +91,7 @@
   <string name="plain">Texto plano</string>
 
   <string name="ui_imap_folder_label">Etiqueta de Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg">As SMS gardadas serán etiquetadas en GMail con este texto.</string>
+  <string name="ui_imap_folder_label_dialog_msg">As SMS gardadas serán etiquetadas en GMail con este texto. Utilice "INBOX" para gardar as mensaxes con correos electrónicos entrantes.</string>
   <string name="ui_mail_subject_prefix_label">Prefixo do asunto do correo electrónico</string>
   <string name="ui_mail_subject_prefix_desc">Usar como prefixo o nome do directorio IMAP no asunto do correo electrónico</string>
 

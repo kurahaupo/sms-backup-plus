@@ -57,7 +57,7 @@
     <string name="ui_authentication_label">Автентифікація</string>
     <string name="plain">Звичайний текст</string>
 <string name="ui_imap_folder_label">Мітки Gmail</string>
-    <string name="ui_imap_folder_label_dialog_msg">Збережені SMS повідомлення будуть позначені цією міткою в Gmail.</string>
+    <string name="ui_imap_folder_label_dialog_msg">Збережені SMS повідомлення будуть позначені цією міткою в Gmail. Введіть "INBOX", щоб розмістити повідомлення поряд із вхідними електронними листами.</string>
 <string name="ui_mail_subject_prefix_label">Тема електронного листа</string>
 <string name="ui_mail_subject_prefix_desc">Використання назви IMAP-тек як префікс теми листа</string>
 <string name="ui_max_items_per_sync_label">Елементів для резервної копії</string>

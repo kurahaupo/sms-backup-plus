@@ -55,7 +55,7 @@
   <string name="ui_authentication_label">Verifikim</string>
   <string name="plain">Tekst i thjeshtë</string>
   <string name="ui_imap_folder_label">etiketë Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg">Mesazhet SMS e ruajtura rezervë do të shënohen me këtë etiketë në Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Mesazhet SMS e ruajtura rezervë do të shënohen me këtë etiketë në Gmail. Shkruajeni "INBOX" për të vendosur mesazhe në krah të postave elektronike që vijnë.</string>
   <string name="ui_mail_subject_prefix_label">Prefiksi i subjektit të Email-it</string>
   <string name="ui_mail_subject_prefix_desc">Përdorni emrin e dosjes së IMAP si prefiks në subjektin e emailit</string>
   <string name="ui_max_items_per_sync_label">Shënime për kopje rezervë</string>

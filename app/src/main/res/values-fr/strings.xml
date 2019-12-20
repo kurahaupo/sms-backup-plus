@@ -75,7 +75,7 @@
   <string name="plain">Texte simple</string>
 
   <string name="ui_imap_folder_label">Libellé Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg">Les SMS sauvegardés seront classés avec ce libellé dans Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Les SMS sauvegardés seront classés avec ce libellé dans Gmail. Utilisez "INBOX" pour placer les messages parmi les courriels entrants.</string>
   <string name="ui_mail_subject_prefix_label">Préfixe dans le sujet de l\'email</string>
   <string name="ui_mail_subject_prefix_desc">Utiliser le nom du dossier IMAP comme préfixe dans le sujet de l\'email</string>
 

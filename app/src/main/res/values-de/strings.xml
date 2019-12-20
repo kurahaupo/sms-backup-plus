@@ -74,7 +74,7 @@
   <string name="plain">Klartext</string>
 
   <string name="ui_imap_folder_label">Gmail-Label</string>
-  <string name="ui_imap_folder_label_dialog_msg">Gesicherte SMS-Nachrichten werden in Gmail mit diesem Label markiert</string>
+  <string name="ui_imap_folder_label_dialog_msg">Gesicherte SMS-Nachrichten werden in Gmail mit diesem Label markiert. Verwenden Sie "Posteingang", um Nachrichten mit eingehenden E-Mails zu platzieren.</string>
   <string name="ui_mail_subject_prefix_label">E-Mail Betreffpräfix</string>
   <string name="ui_mail_subject_prefix_desc">IMAP Ordner als Präfix im Mail-Betreff benutzen</string>
 

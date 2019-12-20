@@ -75,7 +75,7 @@
   <string name="plain">Text net</string>
 
   <string name="ui_imap_folder_label">Etiqueta de Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg">Els SMS copiats es marcaran amb aquesta etiqueta a Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Els SMS copiats es marcaran amb aquesta etiqueta a Gmail. Utilitzeu "INBOX" per posar missatges amb missatges de correu electrònic entrants.</string>
   <string name="ui_mail_subject_prefix_label">Prefix de l\'assumpte de correu electrònic</string>
   <string name="ui_mail_subject_prefix_desc">Utilitza el nom de la carpeta IMAP com a prefix a l\'assumpte de correu electrònic</string>
 

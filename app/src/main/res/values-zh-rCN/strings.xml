@@ -92,7 +92,7 @@
   <string name="plain">明文</string>
 
   <string name="ui_imap_folder_label">Gmail 标签</string>
-  <string name="ui_imap_folder_label_dialog_msg">备份的短信将在 Gmail 中以此标签标记。</string>
+  <string name="ui_imap_folder_label_dialog_msg">备份的短信将在 Gmail 中以此标签标记。键入“INBOX”以将消息与传入电子邮件放置在一起。</string>
   <string name="ui_mail_subject_prefix_label">邮件主题前缀</string>
   <string name="ui_mail_subject_prefix_desc">以 IMAP 文件夹名称作为邮件主题前缀</string>
 

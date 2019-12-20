@@ -74,7 +74,7 @@
   <string name="plain">Testo semplice</string>
 
   <string name="ui_imap_folder_label">Etichetta Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg">I messaggi SMS salvati saranno contrassegnati in gmail con questa etichetta.</string>
+  <string name="ui_imap_folder_label_dialog_msg">I messaggi SMS salvati saranno contrassegnati in gmail con questa etichetta.  Utilizzare "INBOX" per salvare i messaggi con le e-mail in arrivo.</string>
   <string name="ui_mail_subject_prefix_label">Prefisso oggetto email</string>
   <string name="ui_mail_subject_prefix_desc">Utilizza l\'etichetta Gmail come prefisso da inserire nell\'oggetto dell\'email</string>
 

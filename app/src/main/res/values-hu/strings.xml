@@ -76,7 +76,7 @@
   <string name="plain">Nyílt szöveg</string>
 
   <string name="ui_imap_folder_label">Gmail címke</string>
-  <string name="ui_imap_folder_label_dialog_msg">Az elmentett SMS üzenetek a megadott címkével lesznek megjelölve Gmailben.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Az elmentett SMS üzenetek a megadott címkével lesznek megjelölve Gmailben. Az "INBOX" használatával elmentheti a bejövő e-maileket tartalmazó üzeneteket.</string>
   <string name="ui_mail_subject_prefix_label">Email tárgy előtag</string>
   <string name="ui_mail_subject_prefix_desc">IMAP mappa nevének használata előtagként az üzenetek tárgyában</string>
 

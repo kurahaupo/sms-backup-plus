@@ -74,7 +74,7 @@
     <string name="plain">Texto legible</string>
 
   <string name="ui_imap_folder_label">Etiqueta de Gmail</string>
-    <string name="ui_imap_folder_label_dialog_msg">Los SMS respaldados serán marcados con esta etiqueta en Gmail.</string>
+    <string name="ui_imap_folder_label_dialog_msg">Los SMS respaldados serán marcados con esta etiqueta en Gmail. Utilice "INBOX" para colocar mensajes con correos electrónicos entrantes.</string>
   <string name="ui_mail_subject_prefix_label">Prefijo del sujeto de los mails</string>
   <string name="ui_mail_subject_prefix_desc">Use el nombre del archivo IMAP como prefijo en el sujeto de los mails</string>
 

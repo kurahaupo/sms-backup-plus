@@ -92,7 +92,7 @@
     <string name="plain">Düz yazı</string>
 
   <string name="ui_imap_folder_label">Gmail etiketi</string>
-    <string name="ui_imap_folder_label_dialog_msg">SMS\'ler yedeklendiğinde Gmail hesabınızda bu şekilde etiketlenecek.</string>
+    <string name="ui_imap_folder_label_dialog_msg">SMS\'ler yedeklendiğinde Gmail hesabınızda bu şekilde etiketlenecek. Gelen e-postaların yanına mesaj yerleştirmek için "INBOX" yazın.</string>
   <string name="ui_mail_subject_prefix_label">Eposta ön eki</string>
   <string name="ui_mail_subject_prefix_desc">Eposta konusuna IMAP klasör adını ön ek olarak kullan</string>
 

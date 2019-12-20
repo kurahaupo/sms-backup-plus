@@ -74,7 +74,7 @@
   <string name="plain">Απλό κείμενο</string>
 
   <string name="ui_imap_folder_label"> Ετικέτα Gmail</string>
-  <string name="ui_imap_folder_label_dialog_msg"> Τα αποθηκευμένα μηνύματα SMS θα έχουν αυτή την ετικέτα στο Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg"> Τα αποθηκευμένα μηνύματα SMS θα έχουν αυτή την ετικέτα στο Gmail. Χρησιμοποιήστε το "INBOX" για να αποθηκεύσετε μηνύματα με εισερχόμενα μηνύματα ηλεκτρονικού ταχυδρομείου.</string>
   <string name="ui_mail_subject_prefix_label"> Πρόθεμα θέματος Email </string>
   <string name="ui_mail_subject_prefix_desc">Χρησιμοποιείτε το όνομα του φάκελο IMAP ως πρόθεμα στο θέμα του email</string>
 

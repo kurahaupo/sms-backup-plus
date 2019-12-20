@@ -51,7 +51,7 @@
     <string name="ui_authentication_label">Uwierzytelnienie</string>
     <string name="plain">Zwykły tekst</string>
     <string name="ui_imap_folder_label">Etykieta Gmail</string>
-    <string name="ui_imap_folder_label_dialog_msg">Kopie zapasowe SMS będą oznaczone tą etykietą w Gmailu.</string>
+    <string name="ui_imap_folder_label_dialog_msg">Kopie zapasowe SMS będą oznaczone tą etykietą w Gmailu. Użyj „INBOX”, aby umieszczać wiadomości wśród przychodzących wiadomości e-mail.</string>
     <string name="ui_mail_subject_prefix_label">Prefix tematu emaila</string>
     <string name="ui_mail_subject_prefix_desc">Użyj nazwy folderu jako prefix w temacie emaila</string>
     <string name="ui_max_items_per_sync_label">Elementy w jednym cyklu</string>

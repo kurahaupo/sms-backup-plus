@@ -73,7 +73,7 @@
   <string name="plain">Klar tekst</string>
 
   <string name="ui_imap_folder_label">Gmail label</string>
-  <string name="ui_imap_folder_label_dialog_msg">SMS beskeder der er backed op bliver tagged med denne label i Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">SMS beskeder der er backed op bliver tagged med denne label i Gmail. Brug "INBOX" til at placere meddelelser med indgående e-mails.</string>
   <string name="ui_mail_subject_prefix_label">E-mail emne prefix</string>
   <string name="ui_mail_subject_prefix_desc">Brug IMAP folder navn som prefix i e-mail emne feltet.</string>
 

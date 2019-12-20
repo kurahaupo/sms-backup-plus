@@ -92,7 +92,7 @@
   <string name="plain">Vanlig text</string>
 
   <string name="ui_imap_folder_label">Gmail-etikett</string>
-  <string name="ui_imap_folder_label_dialog_msg">Säkerhetskopierade SMS kommer att markeras med denna etikett i Gmail.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Säkerhetskopierade SMS kommer att markeras med denna etikett i Gmail. Använd "INBOX" för att placera meddelanden bredvid inkommande e-postmeddelanden.</string>
   <string name="ui_mail_subject_prefix_label">Prefix på ämnesrad</string>
   <string name="ui_mail_subject_prefix_desc">Använd IMAP-mappens namn som prefix i ämnesraden</string>
 

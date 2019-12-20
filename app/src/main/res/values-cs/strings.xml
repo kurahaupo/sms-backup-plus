@@ -73,7 +73,7 @@
   <string name="plain">Prostý text</string>
 
   <string name="ui_imap_folder_label">GMail složka</string>
-  <string name="ui_imap_folder_label_dialog_msg">Zálohované zprávy budou na GMailu uloženy v této složce.</string>
+  <string name="ui_imap_folder_label_dialog_msg">Zálohované zprávy budou na GMailu uloženy v této složce. Použijte „INBOX“ k umístění zpráv s příchozími e-maily.</string>
   <string name="ui_mail_subject_prefix_label">Prefix v předmětu emailu</string>
   <string name="ui_mail_subject_prefix_desc">Použít název složky jako prefix v předmětu emailu</string>
 
